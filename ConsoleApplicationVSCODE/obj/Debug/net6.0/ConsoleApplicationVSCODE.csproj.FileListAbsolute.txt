@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\bin\Debug\net6.0\ConsoleApplicationVSCODE.exe
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\bin\Debug\net6.0\ConsoleApplicationVSCODE.deps.json
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\bin\Debug\net6.0\ConsoleApplicationVSCODE.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\bin\Debug\net6.0\ConsoleApplicationVSCODE.dll
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\bin\Debug\net6.0\ConsoleApplicationVSCODE.pdb
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ConsoleApplicationVSCODE.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ConsoleApplicationVSCODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ConsoleApplicationVSCODE.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ConsoleApplicationVSCODE.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ConsoleApplicationVSCODE.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ConsoleApplicationVSCODE.dll
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\refint\ConsoleApplicationVSCODE.dll
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ConsoleApplicationVSCODE.pdb
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ConsoleApplicationVSCODE.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Documentos\Curso .net\ConsoleApplicationVSCODE\obj\Debug\net6.0\ref\ConsoleApplicationVSCODE.dll
